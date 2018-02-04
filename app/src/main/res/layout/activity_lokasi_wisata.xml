@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="comndaf.example.user.pariwisatamakassar.LokasiWisata">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:orientation="vertical">
+
+      <fragment
+          android:layout_width="match_parent"
+          android:layout_height="200dp"
+          android:id="@+id/mapFragment"
+          android:name="com.google.android.gms.maps.SupportMapFragment"/>
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:orientation="horizontal">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Normal"
+            android:id="@+id/normal" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/satelit"
+            android:text="Satelit"/>
+       </LinearLayout>
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:orientation="horizontal">
+
+       <Button
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:text="Hybrid"
+           android:id="@+id/hybrid"/>
+       <Button
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:text="Terrain"
+           android:id="@+id/terrain"/>
+
+       </LinearLayout>
+
+     </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

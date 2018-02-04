@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/h"
+            android:title="Home" />
+        <item
+            android:id="@+id/galeri"
+            android:icon="@drawable/galeri"
+            android:title="Galeri Wisata" />
+        <item
+            android:id="@+id/lokasi"
+            android:icon="@drawable/hihi"
+            android:title="Lokasi Wisata" />
+        <item
+            android:id="@+id/video"
+            android:icon="@drawable/video"
+            android:title="Video Wisata" />
+
+    </group>
+
+</menu>
