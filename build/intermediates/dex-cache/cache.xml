@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\240aa585df2033b06eeddd06b8f401275d331102\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ca04d4964720a02abd125c5c6bac863495e49b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\b324b7715d3a6565774cc83d8754a26d39c6b884\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e454b2a9d04784df5d48fe96010dc2cad5ef4f25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_506051def67129cfa214b99eadfbb58d48b0bcfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\6ee963c8358dcd4ff744ebac50bd4e464e0fe35c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_500d1209e309cd345c2ed8fa00dc1d4401099058\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\935cdd2404f13384a23883bf6292f0cf8b4b0e7b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6955b62208d1e1f1dc47797ca0d8a40d29a1c99a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\79f12c8bab48f36327e2635ea31c0121abdc5b9a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc199fba55b5ff5c144c60f9905176d72464b053\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\6f928ce3f3fe24ac9800e7e8febc3fe62cb123c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d767f1194a95709c6abff56d82a70e254c454b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\4122865de80b6179e7bb3a2d39b806e03f454b72\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7734b122e00e560edecc6b7b196598af0072b97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\c691fdf1c7b5e9b34f8ae7fd41abfe726a335a1a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1660b9fe16c7bd2533ebd8f9d9fc9e9f29962a32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\5982aa7d7dfdd0fbce1ea8f36dcbcd0b5e053186\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c8ed3c04ba3376d691fb382ca79be615ddf9903\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38f9ae3fa911273f7ee1a941b6ec5a636207b2f1">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_97acc019333aec316b7baf8405b01a00cb0879b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\b25127031ca795d1c7d8ac689b316a5c722c1377\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99db44abc1ecbb80cf444d301e07651923bae8ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\a3de22c9769f12fe54e41d2b641b7031abc9dd48\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc4b87c11defa754c1478ef90a0b3810b12e2d99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\c7fbf27842242d3f2e49d1d9114535ca5d312096\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_506bc5d2996fb1d3e1ae2d96fb5030c42ba7199f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\25849445c2bd836cd2252093fff9178b4a0d05a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e66c64b91d1d0413fa1e09f5b836c0309bb4ced\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\39295f2ae1c337586121bd56da551537efd8f876\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5ca68c148e3e9d37327d740067706278ffd90a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\abd456be9488356b12d7db40997f7f8dc23dc7e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18712e96a2da1f4acf293c870ec8a9af7c82d405\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\66b086abe3a1c8efc3a5d7fe2083a7a7f74a9fa2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db628eeff7098bac5e9ff07b752740e60b122131\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\75e0279f24503752e461dd64900d6a105fdb573b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc3721244a7849810cc851b343205b8078f412dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\95738a58cc7a0515e00dd36a9d788429d4980e5b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d71fac20bf1c30ee628b52eb70f2cc466b05da14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\723da1437ef53aa18b9525d092b2face10c4f438\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d2724f4e99a65998cda09063ad5869773b2f5512\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\fdaad3e61fb0f41ac506ab1aee6059b2f5bcf16d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe475ecd5e632d42574be401759cbeadbf9fba2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\d9cee31178c693419b2435521348f96e0d9836b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_657a2f4357f3679887b5e8192aa59ad37e42af75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\d7d59444962ceabb4abe38f037bc3f67cd477b91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_660d1a7ba10d2dda57831018d54fab57215c0872\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\2a39c6e9b3207462e1e1e3d66d81354960ab987c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15eb9144b031e9a80640c8e5db9f86215575cdca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\263126e6b29b49bab51bce6ddfa5cf8aa3d54148\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fcfc0e90b6d903dcfab08b072efa631084430863\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\0525f493d8cb9c8d6ff0540817c6e988f0bf4713\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b08b59646700d8ae8f4416da5af19e177557d8a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\5a5b519e83ac280c082447070e9c3f67dad1555f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_06f87a8397f49a838966c9a718462787dbfce60e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\9e85b1fe6b90ade058962675f7a1876de3cd257e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c2e6a963f33a98574d703c366259164ce4984c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\581c67155f73fc147847fc52a3b449553a1bf130\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68f3573719f631efddbc6e8943095686f27ff76c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\e943877da6d6c812bcdc56f431573474f001ea5e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c34ba873529010546b0117f48b86a250e129e773\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\09ae70f797cb22bec48a0921b54ef4bc98b8fc67\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ba6455e8f73f5c0caa7ca0363b091555b93da75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\09a4ac9ee9b70130a0ed28aa705cbfa41295a31c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1198340e2b15a0daa9e230553c824e1ac7c8f1e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\369bcab63aeecc492b665ddd8e17f4bd1bda7369\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8f0c58d74f298da473e01ea9e8eb2c07ae812f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\763f97c705b7705d33870e85c61cebb55ba0ae5f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_643dbac733b5998ffe5d7d1ca9f0265cf368c7f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\3cdd0f7c30644a5391688573471582150ff86a56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a88a42724147b406ea819c2dbeb0261fb85d573c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\1992819691cd3ca7e043e60d1b0fb1576c520bb4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ce2db2b6eccf3a9a4cf5c49893de36b70c1d36c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\c320662b12c5a1514373747c41ef83111263ee70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a2fde88b1272522aeaf7c0f3ce11bbdc9171fb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\fd34e01027807a221ed8fcee0920e38fb45ce73e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95c785ff993310288916e6d20c606a1c3190b79c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\c6dcfd02545739430b2ca289b83ba3fd5c6fae44\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7794a66ce3ec8a6e9cf9be1900bb50b716910658\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\0f0b1bf2130c45ca0d84948adb3ba441cc9916e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c4ae58a9ea07482e9a434a5ab313baf0c9ceebff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\66c7d8b56ebaef63514a5b75b8a4289b20e2a6d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_49fdf530792d771359b5d447b9919cd4713ecaed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\d29d9d53c0244ba82cb03ec3bef0341fbaee4cb3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_880574e2f63423af0f875d2551737d8180bc87b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\150f580e6632442e62f7845d05251b2f407192ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0cc91cbde4d36e7a9bf91676abd7cbe5509af4a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_46e4da06f6e7ab604d552172f2ec1582ebdfc49b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\86716954c76f6063cfe03c5a5436e32dd79bcc7b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dba01ec62e9d77914ebe965843726bb16c7c1963\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\0dc31016c07ef9137bffbf23160b08a2e61de4c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_deb73a7f4c159ea3d2f2b377785f5a3a21bd4cf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\918683c85b4a89e894a20b93d05fcd9d1618a5c5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b302251082c6ec2c40d9869e491de06bf91d89c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\af03495eff6bace5fe433a98d10988e74ef570af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67558de22ba8d1344d7930db399d32ab54e5e513\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\69f3f8c8ab85a834bf6ece2ef5f3f42b1e30cad7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="D:\PPL\AplikasiAndroid\PariwisataMakassar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d7d08e5347a20538837af1f16dc055339be4ad8\classes.dex" />
+    </item>
+
+</items>
